@@ -24,13 +24,6 @@ I'm a frontend developer focused on building responsive and interactive web inte
 - Strengthen component organization and state management  
 - Understand TypeScript basics and type safety in React  
 - Learn routing, SSR/SSG concepts in Next.js  
-
----
-
-## 📊 GitHub Stats
-
-[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRazaShahid&show_icons=true&count_private=true&hide_title=true&hide=prs)](https://github.com/AhmedRazaShahid)
-
 ---
 
 ## 📫 Contact
