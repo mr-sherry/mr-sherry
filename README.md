@@ -1,34 +1,45 @@
-Hi, I'm Ahmed Raza Shahid 👋
-👨‍💻 About Me
-I'm a frontend developer focused on building responsive, accessible, and user-friendly web applications. I started with HTML, CSS, and JavaScript, and now I’m working with React.js for building interfaces and exploring Node.js to understand the backend side.
+# 👋 Hi, I'm Ahmed Raza Shahid
 
-🛠 Tech Stack
-HTML/CSS – Semantic markup and layout techniques (Flexbox, Grid)
+## 💻 About Me
 
-JavaScript (ES6+) – Core concepts, DOM, and modern JS features
+I'm a frontend developer focused on building responsive and interactive web interfaces. I began with **HTML**, **CSS**, and **JavaScript**, and I'm currently working with **React.js**. Recently, I've started learning **TypeScript** and **Next.js** to take my skills further.
 
-React.js – Component-based development and hooks
+---
 
-Git & GitHub – Version control and project collaboration
+## 🧰 Tech Stack
 
-Node.js – Learning server-side development and APIs
+- 🌐 **HTML5** – Semantic structure  
+- 🎨 **CSS3** – Flexbox, Grid, and responsive design  
+- 📜 **JavaScript (ES6+)** – DOM manipulation and modern JS concepts  
+- ⚛️ **React.js** – Components, hooks, and UI development  
+- 🧪 **Git & GitHub** – Version control and collaboration  
+- 🆕 **TypeScript (Learning)** – Static typing in frontend apps  
+- 🧭 **Next.js (Learning)** – Framework for building React-based web apps  
 
-📌 Interests
-Building practical projects to apply what I learn
+---
 
-Improving UI/UX design practices in frontend development
+## 🎯 Learning Goals
 
-Collaborating with developers and contributing to open-source
+- Build dynamic UI features with React  
+- Strengthen component organization and state management  
+- Understand TypeScript basics and type safety in React  
+- Learn routing, SSR/SSG concepts in Next.js  
 
-Exploring tools that help streamline web development
+---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-📬 Contact
-Email: mr.sherry6967@gmail.com
+[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRazaShahid&show_icons=true&count_private=true&hide_title=true&hide=prs)](https://github.com/AhmedRazaShahid)
 
-Portfolio: ahmed-raza-shahid.vercel.app
+---
 
-Twitter: @Ahmedrazashahid
+## 📫 Contact
 
-LinkedIn: Ahmed Raza Shahid
+- 📧 Email: [mr.sherry6967@gmail.com](mailto:mr.sherry6967@gmail.com)  
+- 🌐 Portfolio: [ahmed-raza-shahid.vercel.app](https://ahmed-raza-shahid.vercel.app)  
+- 🐦 Twitter: [@Ahmedrazashahid](https://x.com/Ahmedrazashahid)  
+- 💼 LinkedIn: [Ahmed Raza Shahid](https://www.linkedin.com/in/ahmed-raza-270bb1246)
+
+---
+
+Thanks for checking out my profile!
